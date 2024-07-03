@@ -1,0 +1,132 @@
+.go3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 106px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 120px;
+}
+.background9 {
+  flex: 0.3325;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 229px 223px;
+  box-sizing: border-box;
+  background-image: url(/public/background3@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 381px;
+  max-width: 100%;
+}
+.coonect3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 106px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.call-to-action1,
+.go-mo-world-image,
+.gomoworld-website-imagefiles-d3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gomoworld-website-imagefiles-d3 {
+  flex: 1;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 228px 82px 230px;
+  box-sizing: border-box;
+  background-image: url(/public/gomoworld-website-imagefiles-d204webp2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 381px;
+}
+.call-to-action1,
+.go-mo-world-image {
+  align-self: stretch;
+  flex-shrink: 0;
+}
+.go-mo-world-image {
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 80px 360px;
+  box-sizing: border-box;
+  gap: 27px;
+}
+.call-to-action1 {
+  flex-direction: column;
+  text-align: left;
+  font-size: 96px;
+  color: #9f0132;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1525px) {
+  .background9,
+  .gomoworld-website-imagefiles-d3 {
+    flex: 1;
+  }
+  .go-mo-world-image {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .background9,
+  .gomoworld-website-imagefiles-d3 {
+    min-width: 100%;
+  }
+  .go-mo-world-image {
+    padding-left: 180px;
+    padding-right: 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .go3 {
+    font-size: 48px;
+    line-height: 63px;
+  }
+  .background9 {
+    padding: 149px 111px;
+    box-sizing: border-box;
+  }
+  .coonect3 {
+    font-size: 48px;
+    line-height: 63px;
+  }
+  .go-mo-world-image,
+  .gomoworld-website-imagefiles-d3 {
+    padding: 148px 41px 149px;
+    box-sizing: border-box;
+  }
+  .go-mo-world-image {
+    padding: 52px 90px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .go3 {
+    font-size: 29px;
+    line-height: 42px;
+  }
+  .background9 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .coonect3 {
+    font-size: 29px;
+    line-height: 42px;
+  }
+}

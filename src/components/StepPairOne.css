@@ -1,0 +1,130 @@
+.gomoworld-icons-fa2-03-2048x20 {
+  width: 72px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.heading-41 {
+  align-self: stretch;
+  height: 27.6px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.below,
+.details-on-this,
+.from-here-follow,
+.screen-to-install {
+  margin: 0;
+}
+.from-here-follow-container {
+  align-self: stretch;
+  height: 76px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gomoworld-icons-fa2-03-2048x20-parent,
+.heading-4-install-your-esim-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.gomoworld-icons-fa2-03-2048x20-parent {
+  align-items: center;
+  gap: 32px;
+}
+.gomoworld-icons-fa2-04-2048x20 {
+  width: 72px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-42 {
+  align-self: stretch;
+  height: 27.6px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.app-and-go,
+.country-tap-to,
+.once-you-reach {
+  margin: 0;
+}
+.once-you-reach-container {
+  height: 55.3px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-4-activate-your-esim-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.gomoworld-icons-fa2-04-2048x20-parent,
+.step-pair-one1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.gomoworld-icons-fa2-04-2048x20-parent {
+  align-self: stretch;
+  padding: 0 3px;
+  gap: 32px;
+}
+.step-pair-one1 {
+  flex: 0.9785;
+  padding: 0 42px 0.1px;
+  box-sizing: border-box;
+  gap: 75px;
+  min-width: 232px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #292929;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1225px) {
+  .step-pair-one1 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 450px) {
+  .gomoworld-icons-fa2-03-2048x20-parent,
+  .gomoworld-icons-fa2-04-2048x20-parent {
+    gap: 16px;
+  }
+  .step-pair-one1 {
+    gap: 37px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

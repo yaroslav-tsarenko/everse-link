@@ -1,0 +1,227 @@
+.heading-28 {
+  margin: 0;
+  width: 677.4px;
+  height: 68px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.gomoworld-icons-fa2-03-2048x201 {
+  width: 72px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-43 {
+  align-self: stretch;
+  height: 27.6px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.below1,
+.details-on-this1,
+.from-here-follow1,
+.screen-to-install1 {
+  margin: 0;
+}
+.from-here-follow-container1 {
+  align-self: stretch;
+  height: 76px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-4-install-your-esim-group,
+.step-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.heading-4-install-your-esim-group {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 24px;
+}
+.step-item {
+  flex: 0.9786;
+  align-items: center;
+  padding: 0 4px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 222px;
+  max-width: 282px;
+}
+.gomoworld-icons-fa2-04-2048x201 {
+  width: 72px;
+  height: 72px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-44 {
+  align-self: stretch;
+  height: 27.6px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.app-and-go1,
+.country-tap-to1,
+.once-you-reach1 {
+  margin: 0;
+}
+.once-you-reach-container1 {
+  height: 55.3px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-4-activate-your-esim-group,
+.step-item1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.heading-4-activate-your-esim-group {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 24px;
+}
+.step-item1 {
+  flex: 0.95;
+  align-items: center;
+  padding: 0 8px 20.7px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 222px;
+  max-width: 282px;
+}
+.how-it-works-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  font-size: 18px;
+  color: #292929;
+}
+.v {
+  color: inherit;
+}
+.view-full-instruction-container {
+  flex: 1;
+  position: relative;
+  font-size: 12.6px;
+  line-height: 18px;
+  font-family: Montserrat;
+  color: #9f0132;
+  text-align: center;
+  white-space: nowrap;
+}
+.button8,
+.how-it-works-title2,
+.how-it-works1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.button8 {
+  cursor: pointer;
+  border: 2px solid #9f0132;
+  padding: 15px 32px;
+  background-color: #fff;
+  width: 206px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.button8:hover {
+  background-color: #e6e6e6;
+  border: 2px solid #c42659;
+  box-sizing: border-box;
+}
+.how-it-works-title2,
+.how-it-works1 {
+  flex-direction: column;
+  max-width: 100%;
+}
+.how-it-works-title2 {
+  width: 1200px;
+  gap: 64px;
+}
+.how-it-works1 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 48px;
+  color: #9f0132;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1225px) {
+  .how-it-works-steps {
+    flex-wrap: wrap;
+  }
+  .how-it-works-title2 {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-28 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .how-it-works-title2 {
+    gap: 16px;
+  }
+  .how-it-works1 {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-28 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .step-item,
+  .step-item1 {
+    gap: 16px;
+    flex: 1;
+  }
+  .how-it-works1 {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,88 @@
+.europepng-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-23 {
+  line-height: 22px;
+  display: inline-block;
+  min-width: 64.1px;
+}
+.div,
+.from,
+.heading-23 {
+  position: relative;
+}
+.from {
+  letter-spacing: 0.08em;
+  line-height: 16px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 37px;
+}
+.div {
+  align-self: stretch;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Roboto;
+  white-space: nowrap;
+}
+.from-parent {
+  width: 62.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 14px;
+  font-family: Manrope;
+}
+.heading-2-europe-parent,
+.link5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.heading-2-europe-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 23px;
+}
+.link5 {
+  height: 348px;
+  width: 330px;
+  border-radius: 24px;
+  background-color: #fff;
+  border: 1px solid #b8b8b8;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 0 0 31px;
+  min-width: 313px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #292929;
+  font-family: Roboto;
+}

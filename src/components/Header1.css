@@ -1,0 +1,178 @@
+.logo-icon1 {
+  height: 34.9px;
+  width: 60px;
+  position: relative;
+}
+.everselink5 {
+  text-decoration: none;
+  position: relative;
+  line-height: 13px;
+  font-weight: 700;
+  color: inherit;
+  white-space: nowrap;
+}
+.logo-icon-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 7.2px;
+}
+.logo1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.item-link12 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.item-link13 {
+  flex: 1;
+  min-width: 95px;
+}
+.item-link13,
+.item-link14,
+.item-link15,
+.item-link16 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.item-link14 {
+  flex: 1;
+  min-width: 95px;
+  white-space: nowrap;
+}
+.item-link15,
+.item-link16 {
+  min-width: 33px;
+}
+.item-link16 {
+  min-width: 38px;
+}
+.navigation1 {
+  width: 405px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+  max-width: 100%;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.image-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.en1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  line-height: 36px;
+  color: inherit;
+}
+.language-selector {
+  width: 64px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.godownload1 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  line-height: 18px;
+  text-transform: capitalize;
+  font-family: Manrope;
+  color: #9f0132;
+  text-align: left;
+  display: inline-block;
+  min-width: 94px;
+}
+.button7 {
+  cursor: pointer;
+  border: 2px solid #9f0132;
+  padding: 15px 30px 15px 33px;
+  background-color: #fff;
+  flex: 1;
+  border-radius: 30px;
+  justify-content: flex-start;
+}
+.button7:hover {
+  background-color: #e6e6e6;
+  border: 2px solid #c42659;
+  box-sizing: border-box;
+}
+.button7,
+.language-download,
+.logo-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.language-download {
+  width: 232.7px;
+  justify-content: flex-start;
+  gap: 8px;
+  text-align: left;
+  font-size: 11.6px;
+}
+.logo-parent {
+  margin: 0;
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+  font-size: 28.9px;
+  color: #fff;
+  font-family: Montserrat;
+}
+.background6 {
+  background-color: #9f0132;
+  padding: 22px 360px 23.1px;
+  box-sizing: border-box;
+}
+.background6,
+.header1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+@media screen and (max-width: 1225px) {
+  .navigation1 {
+    display: none;
+  }
+  .background6 {
+    padding-left: 180px;
+    padding-right: 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .background6 {
+    padding-left: 90px;
+    padding-right: 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .language-download {
+    display: none;
+  }
+}
